@@ -1,3 +1,4 @@
+
 # Hey there, I'm Parth Surnar! 👋
 
 ## About Me
@@ -49,14 +50,3 @@ Feel free to reach out! 😊
 
 ## 🤝 Let's Collaborate!
 I'm always open to working on exciting **projects** or taking on **freelance opportunities**. If you're looking for someone who's passionate about coding and creating something amazing, feel free to reach out! 
-
----
-
-## ✨ Quote of the Day
-_"Code is like humor. When you have to explain it, it’s bad."_  
-— Cory House
-
----
-
-Thanks for stopping by! 😎💻
-
