@@ -3,8 +3,6 @@
 ## About Me
 I'm a passionate developer with a deep love for coding and technology. 💻 I thrive on solving complex problems and creating innovative solutions. Whether it's **web development**, mastering **libraries & frameworks**, or learning new **languages**, I'm always eager to expand my knowledge and push my limits. 🚀
 
-My ultimate goal is to become a **leading programmer** whose work inspires future generations.
-
 ---
 
 ## 🔗 Connect with Me
@@ -52,11 +50,6 @@ Feel free to reach out! 😊
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" height="30"/>
 </p>
-
----
-
-### 🔍 Continuous Learning
-- Always staying updated with the latest tech trends, libraries, and tools to grow as a **developer**. 📚
 
 ---
 
