@@ -18,7 +18,7 @@
 ---
 
 ## About Me  
-I'm a Passionate developer with a deep love for coding and technology. 💻  
+I'm a Passionate Developer with a deep love for coding and technology. 💻  
 I thrive on solving **complex problems** and creating **innovative solutions**. Whether it's **web development**, mastering **libraries & frameworks**, or exploring new **programming languages**, I'm always eager to expand my knowledge and push my boundaries. 🌟  
 - I believe in **learning by doing** and experimenting with **new tech tools**. ⚙️  
 
