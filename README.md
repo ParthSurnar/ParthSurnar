@@ -125,4 +125,3 @@ I thrive on solving **complex problems** and creating **innovative solutions**. 
 ## 📊 GitHub Stats  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthsurnar&show_icons=true&locale=en&layout=compact" alt="parthsurnar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsurnar&" alt="parthsurnar" /></p>
